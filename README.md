@@ -20,7 +20,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![Ruby](https://img.shields.io/badge/-Ruby-black?style=for-the-badge&logo=ruby)
-![HTML](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B)
 
 ---
