@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+XenaaLangliss;Linux+Enthusiast;Fullstack+Developer;Let's+Build+Something+Cool!&center=true&size=28">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=F7768E&center=true&vCenter=true&multiline=true&lines=Hi+I'm+XenaaLangliss;Linux+Enthusiast+%F0%9F%90%A7;Fullstack+Developer+%F0%9F%94%A5;Let's+Build+Something+Cool!+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -19,8 +19,10 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
-![Ruby](https://img.shields.io/badge/-Ruby-black?style=for-the-badge&logo=ruby)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B)
+![HTML](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
+![Pawn](https://img.shields.io/badge/-Pawn-black?style=for-the-badge&logo=codeforces)
 
 ---
 
