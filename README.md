@@ -1,10 +1,5 @@
-
-<p align="center">
-  <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" width="60" />
-</p>
-
-<h1 align="center" style="font-family: 'Ubuntu', sans-serif;">Hello, I'm <span style="color:#dd4814;">XenaaLangliss</span> 🧠</h1>
-<p align="center"><i>💻 Code ninja by night, 🍜 mie ayam warrior by day</i></p>
+<h1 align="center" style="font-family: 'Ubuntu', sans-serif;">Hello, I'm <span style="color:#dd4814;">XenaaLangliss</span/h1>
+<p align="center"><i>🍜 MIE AYAM IS THE BEST</i></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=22&pause=1000&color=DD4814&center=true&vCenter=true&width=500&lines=Linux+Poweruser;Fullstack+Dev+%7C+JS+%2F+Python+%2F+C%2B%2B;Ubuntu+%7C+Kali+Linux+%7C+Termux;Mie+Ayam+is+Fuel+%F0%9F%8D%9C" alt="Typing SVG" />
@@ -40,20 +35,8 @@
 
 ---
 
-### 🌐 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XenaaLangliss&theme=react-dark&area=true&hide_border=true" />
-</p>
-
 ### 📡 Let's Connect
 
 - 🎥 YouTube: [@XenaaLangliss](https://youtube.com/@XenaaLangliss)
 - 🐧 Linux is life
 - 🍜 Mie ayam is power
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-</p>
