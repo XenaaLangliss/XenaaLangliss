@@ -2,7 +2,7 @@
 <p align="center"><i>Linux Enthusiast • Fullstack Developer • Mie Ayam Fanatic</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DD4814&center=true&vCenter=true&width=435&lines=Linux+is+Life;Mie+Ayam+is+Fuel;Termux+%7C+Docker+%7C+Railway+%7C+Bash" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DD4814&center=true&vCenter=true&width=435&lines=Linux+is+Life;Mie+Ayam+is+The+Best;Termux+%7C+Docker+%7C+Railway+%7C+Bash" alt="Typing SVG" />
 </p>
 
 ---
