@@ -1,35 +1,40 @@
-<h1 align="center">XenaaLangliss 🍜</h1>
-<p align="center"><i>Linux Enthusiast • Fullstack Developer • Mie Ayam Fanatic</i></p>
-
+<h1 align="center">Hi there, I'm XenaaLangliss 🍜</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DD4814&center=true&vCenter=true&width=435&lines=Linux+is+Life;Mie+Ayam+is+The+Best;Termux+%7C+Docker+%7C+Railway+%7C+Bash" alt="Typing SVG" />
+  <i>Linux Enthusiast • Fullstack Developer • Mie Ayam Fanatic</i><br>
+  <i>Building cool stuff with 💻 and ☕</i>
 </p>
 
 ---
 
 ### 🐧 Linux Experience
-![Ubuntu](https://img.shields.io/badge/Ubuntu-DD4814?style=flat&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-00549C?style=flat&logo=kalilinux&logoColor=white)
+
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ---
 
 ### 🚀 Featured Project
 
-[![ubuntu-railway](https://github-readme-stats.vercel.app/api/pin/?username=XenaaLangliss&repo=ubuntu-railway&theme=radical)](https://github.com/XenaaLangliss/ubuntu-railway)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XenaaLangliss&repo=ubuntu-railway&theme=tokyonight)](https://github.com/XenaaLangliss/ubuntu-railway)
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XenaaLangliss&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XenaaLangliss&theme=radical&hide_border=true" width="48%"/>
-</p>
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=XenaaLangliss&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=XenaaLangliss&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XenaaLangliss&layout=compact&theme=tokyonight" />
+</div>
 
 ---
 
 ### 🔗 Connect
-- 🎥 [YouTube](https://youtube.com/@XenaaLangliss)
-- 💬 Linux is life
-- 🍜 Mie ayam is power
 
+[![YouTube Channel](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
+
+---
+
+<p align="center">
+  <i>“Linux is life • Mie ayam is power”</i>
+</p>
