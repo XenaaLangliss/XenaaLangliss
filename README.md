@@ -3,12 +3,12 @@
 </h1>
 
 <p align="center">
-  <i>"A passionate developer from Indonesia, building open-source tools and breaking limits."</i>
+  <i>"Mie ayam is Power🍜"</i>
 </p>
 
 ---
 
-### 🚀 Featured Project
+### Featured Project
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XenaaLangliss&repo=ubuntu-railway&theme=tokyonight)](https://github.com/XenaaLangliss/ubuntu-railway)
 
