@@ -7,9 +7,3 @@
 </p>
 
 ---
-
-### Featured Project
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XenaaLangliss&repo=ubuntu-railway&theme=tokyonight)](https://github.com/XenaaLangliss/ubuntu-railway)
-
----
